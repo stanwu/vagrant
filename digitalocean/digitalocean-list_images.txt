@@ -1,0 +1,89 @@
+Description                                        Slug                           ID
+
+CentOS 5.10 x32                                                                   6372425                       
+CentOS 5.10 x64                                                                   6372321                       
+CentOS 5.11 x32                                    centos-5-x32                   20625985                      
+CentOS 5.11 x64                                    centos-5-x64                   20625979                      
+CentOS 6.7 x32                                     centos-6-5-x32                 14782899                      
+CentOS 6.7 x64                                     centos-6-5-x64                 14782952                      
+CentOS 6.8 x32                                     centos-6-x32                   22236119                      
+CentOS 6.8 x64                                     centos-6-x64                   22236156                      
+CentOS 7.2 x64                                                                    17384153                      
+CentOS 7.2 x64                                                                    18325354                      
+CentOS 7.2 x64                                     centos-7-0-x64                 18835303                      
+CentOS 7.3.1611 x64                                centos-7-x64                   22995941                      
+CentOS [EOL] 7.2.1511 x64                                                         21419098                      
+CoreOS 1298.6.0 (stable)                           coreos-stable                  23487176                      
+CoreOS 1325.2.0 (beta)                             coreos-beta                    23176823                      
+CoreOS 1353.1.0 (alpha)                            coreos-alpha                   23532174                      
+Debian 7.10 x32                                    debian-7-0-x32                 16623283                      
+Debian 7.10 x64                                    debian-7-0-x64                 16623308                      
+Debian 7.11 x32                                                                   18290419                      
+Debian 7.11 x32                                    debian-7-x32                   21419789                      
+Debian 7.11 x64                                    debian-7-x64                   21419458                      
+Debian 8.7 x32                                     debian-8-x32                   23620479                      
+Debian 8.7 x64                                     debian-8-x64                   23620456                      
+Fedora 23 x64                                                                     14238961                      
+Fedora 24 x64                                      fedora-24-x64                  18027532                      
+Fedora 25 x64                                      fedora-25-x64                  21190386                      
+Fedora 25 x64 Atomic                                                              23220211                      
+Fedora Fedora 25 x86 Atomic                        fedora-25-x64-atomic           23535776                      
+FreeBSD 10.3 x64 zfs                               freebsd-10-3-x64-zfs           22810347                      
+FreeBSD 11.0 x64 ZFS                               freebsd-11-0-x64-zfs           22810275                      
+FreeBSD freebsd-10-3 x64 ufs                       freebsd-10-3-x64               23005306                      
+FreeBSD freebsd-11-0 x64 ufs                       freebsd-11-0-x64               23004816                      
+Ubuntu .NET Core w/ PowerShell on 16.04            net_powershell-16-04           21351178                      
+Ubuntu 12.04.5 x32                                 ubuntu-12-04-x32               22977694                      
+Ubuntu 12.04.5 x64                                 ubuntu-12-04-x64               22977783                      
+Ubuntu 14.04.5 x32                                 ubuntu-14-04-x32               23440292                      
+Ubuntu 14.04.5 x64                                 ubuntu-14-04-x64               23440281                      
+Ubuntu 16.04.1 x64                                                                21669205                      
+Ubuntu 16.04.1 x64                                                                22601368                      
+Ubuntu 16.04.2 x32                                 ubuntu-16-04-x32               23440117                      
+Ubuntu 16.04.2 x64                                 ubuntu-16-04-x64               23440119                      
+Ubuntu 16.10 x32                                   ubuntu-16-10-x32               23047982                      
+Ubuntu 16.10 x64                                   ubuntu-16-10-x64               23047968                      
+Ubuntu Cassandra on 14.04                          cassandra                      16376426                      
+Ubuntu Discourse on 14.04                          discourse                      16753867                      
+Ubuntu Django 1.8.7 on 16.04                       django-16-04                   23441931                      
+Ubuntu Django on 14.04                             django                         16089776                      
+Ubuntu Docker 17.03.0-ce on 14.04                  docker                         23219707                      
+Ubuntu Docker 17.03.0-ce on 16.04                  docker-16-04                   23441953                      
+Ubuntu Dokku 0.6.5 on 14.04                        dokku                          18475131                      
+Ubuntu Dokku 0.8.0 on 16.04                        dokku-16-04                    22995884                      
+Ubuntu Drone 0.4 on 14.04                          drone                          17294098                      
+Ubuntu Drupal 8.1.3 on 14.04                       drupal                         17999979                      
+Ubuntu ELK Logging Stack on 14.04                  elk                            15942020                      
+Ubuntu Elixir on 14.04                                                            13764801                      
+Ubuntu Ghost 0.11.7 on 16.04                       ghost-16-04                    23219613                      
+Ubuntu GitLab 8.9.4 CE on 14.04                                                   18285322                      
+Ubuntu GitLab 9.0.0-ce.0 on 16.04                  gitlab-16-04                   23641608                      
+Ubuntu LAMP on 14.04                               lamp                           23219708                      
+Ubuntu LAMP on 16.04                               lamp-16-04                     23441935                      
+Ubuntu LEMP on 14.04                               lemp                           23219704                      
+Ubuntu LEMP on 16.04                               lemp-16-04                     23441952                      
+Ubuntu MEAN 0.5.0 on 16.04                         mean-16-04                     23219614                      
+Ubuntu MEAN on 14.04                               mean                           17061879                      
+Ubuntu Magento 2.0.7 CE on 14.04                   magento                        18536313                      
+Ubuntu MediaWiki on 14.04                          mediawiki                      18398383                      
+Ubuntu MongoDB 3.2.7 on 14.04                      mongodb                        18001523                      
+Ubuntu MongoDB 3.4.2 on 16.04                      mongodb-16-04                  23441943                      
+Ubuntu Mumble Server (murmur) on 14.04             mumble                         18397571                      
+Ubuntu NodeJS 6.10.0 on 16.04                                                     23441942                      
+Ubuntu NodeJS 6.9.5 on 14.04                       node                           22997025                      
+Ubuntu NodeJS 6.9.5 on 16.04                       node-16-04                     22690052                      
+Ubuntu PHPMyAdmin on 14.04                         phpmyadmin                     18398278                      
+Ubuntu PhpMyAdmin on 16.04                         phpmyadmin-16-04               23441955                      
+Ubuntu Redis 3.2.1 on 14.04                        redis                          17999703                      
+Ubuntu Redmine on 14.04                            redmine                        12438838                      
+Ubuntu Ruby on Rails on 14.04 (Postgres, Nginx, Unicorn) ruby-on-rails                  16089764                      
+Ubuntu Ruby-on-Rails on 16.04                      ruby-on-rails-16-04            23442017                      
+Ubuntu WordPress on 14.04                          wordpress                      18398713                      
+Ubuntu Wordpress 4.7 on 16.04                      wordpress-16-04                23441983                      
+Ubuntu cassandra1                                                                 17551182                      
+Ubuntu cloudbench-hibench-on-1404.030216-1                                        16071743                      
+Ubuntu cloudbench-nullworkload-on-1404.030316-6                                   16082940                      
+Ubuntu cloudbench-ycsb-on-1404.030216-1                                           16071652                      
+Ubuntu hadoop1                                                                    17550956                      
+Ubuntu mx.mamboflix.com                                                           19276912                      
+Ubuntu ownCloud 9.1.4/NextCloud_11.0.1 on 16.04    owncloud-16-04                 22995882                      
