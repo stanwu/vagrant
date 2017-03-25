@@ -1,18 +1,12 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-   echo "Usage $0 [name] > /path/to/Vagrantfile"
-   echo "exist name:"
-   ls
+   echo "Usage $0 [name]"
+   echo "precise64 trusty64 xenial32 precise32 trusty32	xenial64"
    exit 0
 fi
 
-if [ ! -d "$1" ]; then
-   echo "$1 is not exist!"
-   exit 1
-fi   
-
-cat <<EOF
+cat >Vagrantfile <<EOF
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
@@ -89,6 +83,6 @@ Vagrant.configure("2") do |config|
   SHELL
 end
 
-
 EOF
+
 
