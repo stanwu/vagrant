@@ -85,5 +85,4 @@ Ubuntu cloudbench-hibench-on-1404.030216-1                                      
 Ubuntu cloudbench-nullworkload-on-1404.030316-6                                   16082940                      
 Ubuntu cloudbench-ycsb-on-1404.030216-1                                           16071652                      
 Ubuntu hadoop1                                                                    17550956                      
-Ubuntu mx.mamboflix.com                                                           19276912                      
 Ubuntu ownCloud 9.1.4/NextCloud_11.0.1 on 16.04    owncloud-16-04                 22995882                      
