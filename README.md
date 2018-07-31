@@ -13,15 +13,6 @@ tags:
 - [Vagrant 官方](https://www.vagrantup.com)
 - [Vagrant 自動化專案](https://github.com/stanwu/vagrant)
 
-### 完成度
-
-| 項目 | 內容 |
-|:--|:--|
-| 版本 | alpha |
-| 目前完成度 | 5% |
-| 對外發佈 | 尚未 |
-| 預計完成日期 | 2019/12/31 |
-
 ### 專案介紹
 
 - VirtualBox
@@ -39,4 +30,11 @@ tags:
 git clone git@github.com:stanwu/vagrant.git
 ```
 
+### 完成度
 
+| 項目 | 內容 |
+|:--|:--|
+| 版本 | alpha |
+| 目前完成度 | 5% |
+| 對外發佈 | 尚未 |
+| 預計完成日期 | 2019/12/31 |
