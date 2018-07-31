@@ -19,7 +19,8 @@ tags:
 - [DigitalOcean](https://github.com/devopsgroup-io/vagrant-digitalocean)
 - [Google Cloud Platform](https://github.com/mitchellh/vagrant-google)
 - Ubuntu 全系列
-- CentOS
+- CentOS 部分
+- Microsoft 部分
 
 ### 下載專案
 
