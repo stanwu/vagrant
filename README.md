@@ -1,4 +1,10 @@
-# Vagrant 自動化專案
+---
+title: Vagrant 自動化專案
+date: 2018-07-31 19:34:00
+tags: 
+- vagrant
+- automation
+---
 
 ### 專案位置
 
@@ -7,9 +13,11 @@
 
 ### 專案介紹
 
-- VirtualBox 自動化
-- Linode 自動化
-- DigitalOcean 自動化
+- VirtualBox
+- [Linode](https://www.linode.com/docs/applications/configuration-management/vagrant-linode-environments/)
+- [VMware ESXi](https://github.com/josenk/vagrant-vmware-esxi)
+- [DigitalOcean](https://github.com/devopsgroup-io/vagrant-digitalocean)
+- [Google Cloud Platform](https://github.com/mitchellh/vagrant-google)
 - Ubuntu 全系列
 - CentOS
 
@@ -18,4 +26,5 @@
 ``` bash
 git clone git@github.com:stanwu/vagrant.git
 ```
+
 
