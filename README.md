@@ -8,6 +8,8 @@ tags:
 
 ### 專案位置
 
+主要目標：很容易的建立所希望的作業環境，省下寶貴的時間，讓生活更間單。
+
 - [Vagrant 官方](https://www.vagrantup.com)
 - [Vagrant 自動化專案](https://github.com/stanwu/vagrant)
 
