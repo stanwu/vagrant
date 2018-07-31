@@ -1,9 +1,9 @@
 ---
-title: Vagrant 自動化專案
+title: Vagrant scaffolds 專案
 date: 2018-07-31 19:34:00
 tags: 
 - vagrant
-- automation
+- scaffolds
 ---
 
 ### 專案主要目標
@@ -11,7 +11,7 @@ tags:
 > 很容易的建立所希望的作業環境，省下寶貴的時間，讓生活更間單。
 
 - [Vagrant 官方](https://www.vagrantup.com)
-- [Vagrant 自動化專案](https://github.com/stanwu/vagrant)
+- [Vagrant scaffolds](https://github.com/stanwu/vagrant)
 
 ### 專案介紹
 
