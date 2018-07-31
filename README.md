@@ -1,11 +1,21 @@
-# vagrant
-Personal Vagrant boxes and automation
+# Vagrant 自動化專案
 
-## Setup multi users 測試
+### 專案位置
 
->test
-**test**
+- [Vagrant 官方](https://www.vagrantup.com)
+- [Vagrant 自動化專案](https://github.com/stanwu/vagrant)
 
+### 專案介紹
 
-- Go to Setting then click Users
+- VirtualBox 自動化
+- Linode 自動化
+- DigitalOcean 自動化
+- Ubuntu 全系列
+- CentOS
+
+### 下載專案
+
+``` bash
+git clone git@github.com:stanwu/vagrant.git
+```
 
